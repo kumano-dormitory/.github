@@ -9,18 +9,18 @@
 ### [資料システム](https://docs.kumano-ryo.com/login)
 - 最新版：https://github.com/kumano-dormitory/kumanodocs-hanami (Private)
   - 連絡先
-　　 - https://github.com/shimada-yusei
+    - https://github.com/shimada-yusei
     - https://github.com/bo40
 
 ### 荷物管理アプリPOKKE
 - タブレット版：https://github.com/kumano-dormitory/pokke-android-2
   - 連絡先
-　　 - https://github.com/kogotakuma
+    - https://github.com/kogotakuma
 
 ### 無人シャワーカードチャージシステム SHOWERS
 - beta版(python)：https://github.com/kumano-dormitory/showers_beta (Private)
   - 連絡先
-　　 - https://github.com/kogotakuma
+    - https://github.com/kogotakuma
     
 ### 名簿管理システムKumapticon
 - 最新版：https://github.com/kumano-dormitory/kumapticon2 (Private)
@@ -30,7 +30,7 @@
     -  [Kumano Mics](https://mics.kumano-ryo.com/login)
     -  [POKKEサーバー](https://pokke.kumano-ryo.com/login)
   - 連絡先
-　　 - https://github.com/kogotakuma
+    - https://github.com/kogotakuma
 
 ### 入寮パンフレット latex
 - 最新版：https://github.com/kumano-dormitory/kumano_entrance_pamphlet
