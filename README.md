@@ -24,7 +24,11 @@
     
 ### 名簿管理システムKumapticon
 - 最新版：https://github.com/kumano-dormitory/kumapticon2 (Private)
-  - 備考：Kumapticon(情報委員会、監察), Kumano Mics, POKKEサーバーの内容を含んでいます。
+  - リンク
+    - [Kumapticon情報委員会](https://kumapticon.kumano-ryo.com/login)
+    - [Kumapticon監察](https://inspection.kumano-ryo.com/login)
+    -  [Kumano Mics](https://mics.kumano-ryo.com/login)
+    -  [POKKEサーバー](https://pokke.kumano-ryo.com/login)
   - 連絡先
 　　 - https://github.com/kogotakuma
 
@@ -32,6 +36,8 @@
 - 最新版：https://github.com/kumano-dormitory/kumano_entrance_pamphlet
   - 連絡先
 　　 - https://github.com/kogotakuma
+
+機密情報が含まれているレポジトリは連絡先の寮生, OPに連絡を取ってください。
 
 ## 機密データ
 https://docs.google.com/document/d/13lmQL9sJ_DDv-_ViPvFRQlPDu-PDLT5_dGwOytxR7EU/edit?tab=t.0
